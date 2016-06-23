@@ -1,2 +1,2 @@
-# meteor-kubernetes
-meteor kubernetes docker image
+# meteor-docker
+meteor docker image
