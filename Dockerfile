@@ -1,5 +1,5 @@
-# get node from official image - version 0.10
-FROM node:0.10.45
+# get node from official image - version 4.5.0
+FROM node:4.5.0
 MAINTAINER Nikunj Chapadia <nikunjchapadia@gmail.com>
 
 ONBUILD WORKDIR /appsrc
